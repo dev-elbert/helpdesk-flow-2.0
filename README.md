@@ -116,3 +116,6 @@ Cada envio para a branch `main` roda o GitHub Actions ([.github/workflows/deploy
 ## Licença
 
 MIT. Veja o arquivo [LICENSE](LICENSE).
+
+
+<img width="1851" height="955" alt="image" src="https://github.com/user-attachments/assets/a403b68e-5324-470f-af86-19472519450c" />
